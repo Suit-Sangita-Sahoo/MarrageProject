@@ -29,9 +29,9 @@ class Family extends Component {
               </h2>
 
               <ul className="space-y-4 text-lg">
-                <li>👨 Father Name</li>
-                <li>👩 Mother Name</li>
-                <li>🧑 Brother Name</li>
+                <li>👨 Golak Sahoo</li>
+                <li>👩 Khira Sahoo</li>
+                <li>🧑Lipu </li>
               </ul>
 
             </div>
@@ -55,8 +55,8 @@ class Family extends Component {
               </h2>
 
               <ul className="space-y-4 text-lg">
-                <li>👨 Father Name</li>
-                <li>👩 Mother Name</li>
+                <li>👨 Arun Kumar Sahoo</li>
+                <li>👩 Sujata Sahoo</li>
                 <li>👧 Sister Name</li>
               </ul>
 
