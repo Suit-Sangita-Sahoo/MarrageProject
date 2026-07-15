@@ -43,11 +43,11 @@ class Contact extends Component {
               <div className="space-y-4 text-lg text-gray-700">
 
                 <p>
-                  👨 Father : Mr. XYZ Behera
+                  👨 Father : Golak Kumar Sahoo
                 </p>
 
                 <p>
-                  👩 Mother : Mrs. ABC Behera
+                  👩 Mother : Khira Sahoo
                 </p>
 
                 <p>
@@ -55,7 +55,7 @@ class Contact extends Component {
                 </p>
 
                 <p>
-                  📧 tapasfamily@gmail.com
+                  📧 tapas@gmail.com
                 </p>
 
               </div>
@@ -87,19 +87,19 @@ class Contact extends Component {
               <div className="space-y-4 text-lg text-gray-700">
 
                 <p>
-                  👨 Father : Mr. XYZ Das
+                  👨 Father : Arun Kumar Sahoo
                 </p>
 
                 <p>
-                  👩 Mother : Mrs. ABC Das
+                  👩 Mother :Sujata Sahoo
                 </p>
 
                 <p>
-                  📞 +91 9876543210
+                  📞 +91 9337461306
                 </p>
 
                 <p>
-                  📧 manosmitafamily@gmail.com
+                  📧 manosmita@gmail.com
                 </p>
 
               </div>
