@@ -87,6 +87,13 @@ class Home extends Component {
 
           {/* Quick Access Cards */}
           <div className="grid grid-cols-2 md:grid-cols-3 gap-4 w-full max-w-3xl">
+             <Link
+  to="/"
+  className="bg-white/15 backdrop-blur-md border border-white/20 rounded-2xl p-5 hover:bg-white/25 transition duration-300 hover:scale-105"
+>
+  <div className="text-3xl mb-2">🏠</div>
+  <h3 className="font-bold text-lg">Home</h3>
+</Link>
 
             <Link
               to="/events"
@@ -121,21 +128,15 @@ class Home extends Component {
             </Link>
 
             <Link
-              to="/rsvp"
+             to="/rsvp" 
+                                 RSVP
               className="bg-white/15 backdrop-blur-md border border-white/20 rounded-2xl p-5 hover:bg-white/25 transition duration-300 hover:scale-105"
             >
               <div className="text-3xl mb-2">🙏</div>
               <h3 className="font-bold text-lg">RSVP</h3>
             </Link>
 
-            <Link
-              to="/contact"
-              className="bg-white/15 backdrop-blur-md border border-white/20 rounded-2xl p-5 hover:bg-white/25 transition duration-300 hover:scale-105"
-            >
-              <div className="text-3xl mb-2">📞</div>
-              <h3 className="font-bold text-lg">Contact</h3>
-            </Link>
-
+           
           </div>
 
         </div>

@@ -9,7 +9,7 @@ import Family from "./Pages/Family";
 import Venue from "./Pages/Venue";
 import RSVP from "./Pages/RSPV";
 import Blessings from "./Pages/Blessing";
-import Contact from "./Pages/Contact";
+
 import Footer from "./Pages/Footer";
 
 class App extends Component {
@@ -35,7 +35,7 @@ class App extends Component {
 
           <Route path="/blessings" element={<Blessings />} />
 
-          <Route path="/contact" element={<Contact />} />
+          
 
         </Routes>
 
